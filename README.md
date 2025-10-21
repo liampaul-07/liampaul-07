@@ -40,5 +40,5 @@ Here are the primary technologies I work with:
 ## My GitHub Stats and Streaks
 
 ### **1. GitHub Stats Card**
-https://github-readme-stats.vercel.app/api?username=liampaul-07&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/liampaul-07)
+[![Liam Raboy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liampaul-07&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/liampaul-07)
 
